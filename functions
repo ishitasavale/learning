@@ -1,0 +1,15 @@
+1. String ch = in.nextLine().trim();
+          System.out.println(ch.charAt(3));
+   OR
+   String ch = Character.toString(in.nextLine().trim().charAt(3));
+   OR
+   String ch = String.valueOf(in.nextLine().trim().charAt(3));
+   OR
+   String ch = "HELLO"
+             System.out.println(word.charAt(3));
+
+2. System.out.println("Your roll no is" + rollno );
+3. int max = Math.max(a,b); //for 2 nos max
+   OR
+   int max = Math.max(c, Math.max(a,b)); // for 3 nos max
+            System.out.println(word.charAt(3));
