@@ -9,7 +9,14 @@
              System.out.println(word.charAt(3));
 
 2. System.out.println("Your roll no is" + rollno );
+
 3. int max = Math.max(a,b); //for 2 nos max
    OR
    int max = Math.max(c, Math.max(a,b)); // for 3 nos max
             System.out.println(word.charAt(3));
+
+4. if(fruit == "mango"){};          // it checks the reference to of the object
+   if(fruit.equals("mango")){};     // it just checks value of object not the reference
+
+5. 
+

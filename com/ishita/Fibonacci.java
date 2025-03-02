@@ -1,6 +1,5 @@
 package com.ishita;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 //1 1 2 3 5 8 13..........
